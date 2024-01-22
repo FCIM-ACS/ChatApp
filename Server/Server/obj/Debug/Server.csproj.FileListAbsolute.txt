@@ -1,0 +1,10 @@
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\bin\Debug\Server.exe.config
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\bin\Debug\Server.exe
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\bin\Debug\Server.pdb
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.Server.resources
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.exe
+E:\Unic\Anul3\ACS\chat-app-master\src\Server\Server\obj\Debug\Server.pdb
